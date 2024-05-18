@@ -1,0 +1,6 @@
+baseURL = 'https://Dev-29.github.io/'
+languageCode = 'en-us'
+title = 'The CS Blog'
+
+theme = "contrast-hugo"
+
